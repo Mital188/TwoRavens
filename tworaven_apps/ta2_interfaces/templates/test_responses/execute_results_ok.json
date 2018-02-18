@@ -1,0 +1,22 @@
+[
+    {
+        "responseInfo": {
+            "status": {
+                "code": "OK"
+            }
+        },
+        "progressInfo": "COMPLETED",
+        "pipelineId": "pipeline_1",
+        "resultUri": "{{ FILE_URI }}"
+    },
+    {
+        "responseInfo": {
+            "status": {
+                "code": "OK"
+            }
+        },
+        "progressInfo": "COMPLETED",
+        "pipelineId": "pipeline_2",
+        "resultUri": "{{ FILE_URI }}"
+    }
+]
